@@ -1,0 +1,13 @@
+C:\Users\Muhlis Buluş\source\repos\personel_kayitprojesi\personel_kayitprojesi\bin\Debug\personel_kayitprojesi.exe.config
+C:\Users\Muhlis Buluş\source\repos\personel_kayitprojesi\personel_kayitprojesi\bin\Debug\personel_kayitprojesi.exe
+C:\Users\Muhlis Buluş\source\repos\personel_kayitprojesi\personel_kayitprojesi\bin\Debug\personel_kayitprojesi.pdb
+C:\Users\Muhlis Buluş\source\repos\personel_kayitprojesi\personel_kayitprojesi\obj\Debug\personel_kayitprojesi.csprojAssemblyReference.cache
+C:\Users\Muhlis Buluş\source\repos\personel_kayitprojesi\personel_kayitprojesi\obj\Debug\personel_kayitprojesi.Form1.resources
+C:\Users\Muhlis Buluş\source\repos\personel_kayitprojesi\personel_kayitprojesi\obj\Debug\personel_kayitprojesi.Properties.Resources.resources
+C:\Users\Muhlis Buluş\source\repos\personel_kayitprojesi\personel_kayitprojesi\obj\Debug\personel_kayitprojesi.csproj.GenerateResource.cache
+C:\Users\Muhlis Buluş\source\repos\personel_kayitprojesi\personel_kayitprojesi\obj\Debug\personel_kayitprojesi.csproj.CoreCompileInputs.cache
+C:\Users\Muhlis Buluş\source\repos\personel_kayitprojesi\personel_kayitprojesi\obj\Debug\personel_kayitprojesi.exe
+C:\Users\Muhlis Buluş\source\repos\personel_kayitprojesi\personel_kayitprojesi\obj\Debug\personel_kayitprojesi.pdb
+C:\Users\Muhlis Buluş\source\repos\personel_kayitprojesi\personel_kayitprojesi\obj\Debug\personel_kayitprojesi.Frmistatistik.resources
+C:\Users\Muhlis Buluş\source\repos\personel_kayitprojesi\personel_kayitprojesi\obj\Debug\personel_kayitprojesi.Frmgrafikler.resources
+C:\Users\Muhlis Buluş\source\repos\personel_kayitprojesi\personel_kayitprojesi\obj\Debug\personel_kayitprojesi.FrmGiris.resources
